@@ -25,7 +25,7 @@ import{_ as p,o,c as e,k as s,a,t,Q as n}from"./chunks/framework.gI2xCOxE.js";co
 <span class="line"><span style="color:#E1E4E8;">        }, </span><span style="color:#79B8FF;">2</span><span style="color:#E1E4E8;">)</span></span>
 <span class="line"><span style="color:#E1E4E8;">    }</span></span>
 <span class="line"><span style="color:#E1E4E8;">}</span></span>
-<span class="line"><span style="color:#6A737D;">//准备utations——用于操作数据(state)</span></span>
+<span class="line"><span style="color:#6A737D;">//准备mutations——用于操作数据(state)</span></span>
 <span class="line"><span style="color:#F97583;">const</span><span style="color:#E1E4E8;"> </span><span style="color:#79B8FF;">mutations</span><span style="color:#E1E4E8;"> </span><span style="color:#F97583;">=</span><span style="color:#E1E4E8;"> {</span></span>
 <span class="line"><span style="color:#E1E4E8;">    </span><span style="color:#9ECBFF;">&#39;JIA&#39;</span><span style="color:#E1E4E8;">:</span><span style="color:#F97583;">function</span><span style="color:#E1E4E8;">(</span><span style="color:#FFAB70;">state</span><span style="color:#E1E4E8;">,</span><span style="color:#FFAB70;">value</span><span style="color:#E1E4E8;">){</span></span>
 <span class="line"><span style="color:#E1E4E8;">        state.sum </span><span style="color:#F97583;">+=</span><span style="color:#E1E4E8;">value</span></span>
@@ -78,7 +78,7 @@ import{_ as p,o,c as e,k as s,a,t,Q as n}from"./chunks/framework.gI2xCOxE.js";co
 <span class="line"><span style="color:#24292E;">        }, </span><span style="color:#005CC5;">2</span><span style="color:#24292E;">)</span></span>
 <span class="line"><span style="color:#24292E;">    }</span></span>
 <span class="line"><span style="color:#24292E;">}</span></span>
-<span class="line"><span style="color:#6A737D;">//准备utations——用于操作数据(state)</span></span>
+<span class="line"><span style="color:#6A737D;">//准备mutations——用于操作数据(state)</span></span>
 <span class="line"><span style="color:#D73A49;">const</span><span style="color:#24292E;"> </span><span style="color:#005CC5;">mutations</span><span style="color:#24292E;"> </span><span style="color:#D73A49;">=</span><span style="color:#24292E;"> {</span></span>
 <span class="line"><span style="color:#24292E;">    </span><span style="color:#032F62;">&#39;JIA&#39;</span><span style="color:#24292E;">:</span><span style="color:#D73A49;">function</span><span style="color:#24292E;">(</span><span style="color:#E36209;">state</span><span style="color:#24292E;">,</span><span style="color:#E36209;">value</span><span style="color:#24292E;">){</span></span>
 <span class="line"><span style="color:#24292E;">        state.sum </span><span style="color:#D73A49;">+=</span><span style="color:#24292E;">value</span></span>
